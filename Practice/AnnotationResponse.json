@@ -1,0 +1,643 @@
+[
+    {
+      "IDX": 301,
+      "CompanyName": "Okumuş, Ekşioğlu and Elmastaşoğlu",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1234,
+      "MaxCapacity": 308,
+      "Latitude": 39.97042,
+      "Longitude": 32.86175,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.91987,
+          32.85427
+        ]
+      },
+      "Distance": 2831,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 36,
+        "TypeName": "Hotel",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 300,
+      "CompanyName": "Yazıcı - Taşçı",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1661,
+      "MaxCapacity": 415,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.97042,
+          32.86175
+        ]
+      },
+      "Distance": 8263,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 17,
+        "TypeName": "Playground",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 681,
+      "CompanyName": "Avan, Nebioğlu and Elçiboğa",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 542,
+      "MaxCapacity": 135,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.96264,
+          32.79367
+        ]
+      },
+      "Distance": 9651,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 42,
+        "TypeName": "Bookstore",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 682,
+      "CompanyName": "Akay - Çatalbaş",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1305,
+      "MaxCapacity": 261,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.96833,
+          32.73083
+        ]
+      },
+      "Distance": 14076,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 27,
+        "TypeName": "Hair Dress",
+        "CoefficientValue": 5
+      }
+    },
+    {
+      "IDX": 110,
+      "CompanyName": "Tazegül - Sezek",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2749,
+      "MaxCapacity": 687,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.92083,
+          33.23083
+        ]
+      },
+      "Distance": 31196,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 40,
+        "TypeName": "Greengrocer",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 1003,
+      "CompanyName": "Uluhan, Çevik and Tahincioğlu",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1302,
+      "MaxCapacity": 325,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.22558,
+          32.98389
+        ]
+      },
+      "Distance": 37963,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 32,
+        "TypeName": "Real Estate Office",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 1004,
+      "CompanyName": "Tunaboylu and Sons",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1397,
+      "MaxCapacity": 349,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.23861,
+          33.03222
+        ]
+      },
+      "Distance": 40602,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 43,
+        "TypeName": "Government Office",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 816,
+      "CompanyName": "Oraloğlu, Aybar and Kunter",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 81,
+      "MaxCapacity": 20,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.48028,
+          32.82361
+        ]
+      },
+      "Distance": 46393,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 16,
+        "TypeName": "Gym",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 902,
+      "CompanyName": "Kunter, Dalkıran and Çatalbaş",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 861,
+      "MaxCapacity": 215,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.80979,
+          33.4408
+        ]
+      },
+      "Distance": 49957,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 3,
+        "TypeName": "Coffee Shop",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 569,
+      "CompanyName": "Dizdar  Group",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 340,
+      "MaxCapacity": 3,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.35625,
+          32.99522
+        ]
+      },
+      "Distance": 52313,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 6,
+        "TypeName": "Museum",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 109,
+      "CompanyName": "Sarıoğlu LLC",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2827,
+      "MaxCapacity": 565,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.23067,
+          33.30584
+        ]
+      },
+      "Distance": 52736,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 27,
+        "TypeName": "Hair Dress",
+        "CoefficientValue": 5
+      }
+    },
+    {
+      "IDX": 903,
+      "CompanyName": "Avan - Sepetçi",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2317,
+      "MaxCapacity": 579,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.84528,
+          33.50639
+        ]
+      },
+      "Distance": 54902,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 37,
+        "TypeName": "Night Club",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 817,
+      "CompanyName": "Akaydın, Solmaz and Bakırcıoğlu",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 797,
+      "MaxCapacity": 199,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.4398,
+          33.18432
+        ]
+      },
+      "Distance": 57580,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 36,
+        "TypeName": "Hotel",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 673,
+      "CompanyName": "Eliçin, Keçeci and Erkekli",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2474,
+      "MaxCapacity": 618,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.46578,
+          32.86705
+        ]
+      },
+      "Distance": 63334,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 44,
+        "TypeName": "Training Center",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 458,
+      "CompanyName": "Kaya  - Demirbaş",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2581,
+      "MaxCapacity": 645,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.21051,
+          32.24552
+        ]
+      },
+      "Distance": 63364,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 42,
+        "TypeName": "Bookstore",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 378,
+      "CompanyName": "Egeli, Abadan and Akbulut",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 556,
+      "MaxCapacity": 139,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.46972,
+          32.65056
+        ]
+      },
+      "Distance": 66358,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 16,
+        "TypeName": "Gym",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 457,
+      "CompanyName": "Sözeri LLC",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2657,
+      "MaxCapacity": 664,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.97556,
+          32.07444
+        ]
+      },
+      "Distance": 68105,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 16,
+        "TypeName": "Gym",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 361,
+      "CompanyName": "Okur - Paksüt",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2964,
+      "MaxCapacity": 741,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.33872,
+          33.45539
+        ]
+      },
+      "Distance": 70205,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 42,
+        "TypeName": "Bookstore",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 362,
+      "CompanyName": "Alyanak, Akyürek and Çetin",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1359,
+      "MaxCapacity": 339,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.48249,
+          33.28352
+        ]
+      },
+      "Distance": 74194,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 35,
+        "TypeName": "Hardware Store",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 154,
+      "CompanyName": "Yorulmaz Group",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1782,
+      "MaxCapacity": 445,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.8,
+          33.73333
+        ]
+      },
+      "Distance": 74769,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 39,
+        "TypeName": "Butcher Shop",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 1011,
+      "CompanyName": "Çetiner Group",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 374,
+      "MaxCapacity": 34,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.22279,
+          32.74574
+        ]
+      },
+      "Distance": 75592,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 25,
+        "TypeName": "Bakery",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 1012,
+      "CompanyName": "Tekand, Kavaklıoğlu and Akan",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1675,
+      "MaxCapacity": 418,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.20417,
+          32.74778
+        ]
+      },
+      "Distance": 77620,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 43,
+        "TypeName": "Government Office",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 437,
+      "CompanyName": "Karadaş and Sons",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 467,
+      "MaxCapacity": 116,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.42,
+          32.16889
+        ]
+      },
+      "Distance": 79813,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 31,
+        "TypeName": "Library",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 570,
+      "CompanyName": "Saygıner, Dağdaş and Ayverdi",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1731,
+      "MaxCapacity": 432,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.6242,
+          33.10928
+        ]
+      },
+      "Distance": 83530,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 4,
+        "TypeName": "Technology",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 754,
+      "CompanyName": "Poçan - Körmükçü",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 838,
+      "MaxCapacity": 209,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          40.1675,
+          31.92111
+        ]
+      },
+      "Distance": 85958,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 44,
+        "TypeName": "Training Center",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 945,
+      "CompanyName": "Özdenak and Sons",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1295,
+      "MaxCapacity": 323,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.86871,
+          31.85347
+        ]
+      },
+      "Distance": 86492,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 4,
+        "TypeName": "Technology",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 436,
+      "CompanyName": "Karadaş, Akbulut and Topaloğlu",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 558,
+      "MaxCapacity": 139,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.33296,
+          32.09393
+        ]
+      },
+      "Distance": 91114,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 17,
+        "TypeName": "Playground",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 369,
+      "CompanyName": "Özkara and Sons",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 2111,
+      "MaxCapacity": 527,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.59463,
+          33.92012
+        ]
+      },
+      "Distance": 96119,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 35,
+        "TypeName": "Hardware Store",
+        "CoefficientValue": 4
+      }
+    },
+    {
+      "IDX": 155,
+      "CompanyName": "Velioğlu Inc",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1965,
+      "MaxCapacity": 491,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.95371,
+          34.02587
+        ]
+      },
+      "Distance": 99070,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 35,
+        "TypeName": "Hardware Store",
+        "CoefficientValue": 4
+      }
+    }
+  ]
+

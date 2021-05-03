@@ -1,0 +1,33 @@
+
+[
+    {
+        "latitude": 40.606935,
+        "longitude": 29.207079,
+        "title": "Fırın",
+        "subtitle": "Ekmek alabilirsiniz",
+        "Number": "111-222-33-44",
+        "adress": "Yeni Cd. No:12/3",
+        "riskPoint": 1
+        
+    },
+    {
+        "latitude": 40.611438,
+        "longitude": 29.205745,
+        "title": "Market",
+        "subtitle": "Alışveriş yapabilirsiniz",
+        "Number": "111-222-33-44",
+        "adress": "Yeni Cd. No:12/8",
+        "riskPoint": 3
+
+    },
+    
+    {
+        "latitude": 40.609541,
+        "longitude": 29.206662,
+        "title": "Fırın",
+        "subtitle": "Ekmek alabilirsiniz",
+        "Number": "111-222-33-44",
+        "adress": "Yeni Cd. No:12/3",
+        "riskPoint": 2
+    }
+]

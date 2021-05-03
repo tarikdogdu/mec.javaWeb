@@ -1,0 +1,24 @@
+
+"points": [
+    {
+      "IDX": 301,
+      "CompanyName": "Okumuş, Ekşioğlu and Elmastaşoğlu",
+      "Logo": "http://placeimg.com/150/150/business",
+      "AreaSize": 1234,
+      "MaxCapacity": 308,
+      "CurrentCapacity": 0,
+      "Coordinate": {
+        "type": "Point",
+        "coordinates": [
+          39.91987,
+          32.85427
+        ]
+      },
+      "Distance": 2831,
+      "IsFavoritePoint": 0,
+      "CompanyType": {
+        "IDX": 36,
+        "TypeName": "Hotel",
+        "CoefficientValue": 4
+      }
+    },
