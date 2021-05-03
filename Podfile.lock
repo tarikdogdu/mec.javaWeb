@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - BulletinBoard (5.0.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BulletinBoard
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BulletinBoard
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  BulletinBoard: dba77053c2a7b64953f63073f7534165af2edd21
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: e5ad8520eff55fc2d83a0d5e4846f8dbd0eaff86
+
+COCOAPODS: 1.10.1
